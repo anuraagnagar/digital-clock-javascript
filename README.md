@@ -11,9 +11,9 @@ The Digital Clock is a web-based clock that displays the current time in a digit
 - Real-time display of the current time (hours, minutes, and seconds).
 - Refreshes automatically to show the updated time.
 
-## Preview
+## Live Preview
 
-![Digital Clock Preview](https://the-digital-clocky.netlify.app/)
+<a href="https://the-digital-clocky.netlify.app/">https://the-digital-clocky.netlify.app/</a>
 
 ## Technologies Used
 
@@ -21,14 +21,10 @@ The Digital Clock is a web-based clock that displays the current time in a digit
 - CSS
 - JavaScript
 
-## How to Use
+## Step to Use
 
 1. Open the `index.html` file in your web browser.
 2. The digital clock will start displaying the current time immediately.
-
-## Customization
-
-You can customize the appearance of the digital clock by modifying the CSS styles in the `style.css` file. For example, you can change the font, color, size, or positioning of the clock elements to match your preferences.
 
 ## Installation
 
